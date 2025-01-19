@@ -13,14 +13,19 @@
 💬 Ask me about **web development**, **RESTful APIs**, **database optimization**, and **cloud integration**.<br>
 </p>
 
-
 ### Languages and Tools:
 
-| ![Angular](https://angular.io/assets/images/logos/angular/angular.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![DotNet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg) |
-|---|---|---|---|
-| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) |
-| ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) |  |  |  |
-
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30"/>
+</p>
 
 
 <h3 align="left">What I’m Currently Working On:</h3>
