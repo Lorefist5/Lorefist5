@@ -15,3 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorefist5&show_icons=true&locale=en&layout=compact" alt="lorefist5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorefist5&show_icons=true&locale=en" alt="lorefist5" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lorefist5/lorefist5/output/snake.svg" alt="Snake animation" />
+
